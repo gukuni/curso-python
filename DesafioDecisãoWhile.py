@@ -18,3 +18,4 @@ while resposta=="SIM":
     else:
         print("Olá desconhecido(a)")
     resposta=input("Digite SIM para continuar: ").upper()
+    #a
